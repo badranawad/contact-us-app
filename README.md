@@ -14,8 +14,8 @@ You need to build a laravel application based on html's added as shown in pictur
 
 ## Contact-form
 
-![contact form](https://github.com/badranawad/contact-form/raw/master/contact%20form.png)
+![contact form](https://github.com/badranawad/contact-us-app/blob/master/contact%20form.png)
 
 ## Contact-list
 
-![contact list table](https://github.com/ptc-db/contact-us-app/raw/master/contact-us-list.png)
+![contact list table](https://github.com/badranawad/contact-us-app/blob/master/contact-us-list.png)
